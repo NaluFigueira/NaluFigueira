@@ -4,7 +4,7 @@
 Sou uma pessoa que busca conhecimento constantemente e não gosto de ficar parada!
 Sou uma Front-end Developer :computer:
 
- :office:  &nbsp; Estou trabalhando na **Qipu - Contabilidade Online**
+ :office:  &nbsp; Estou trabalhando na **Ambev Tech**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e React Native
  <br/> :blush: &nbsp; Posso te ajudar com CSS, UX e organização de projetos
  <br/> :computer: &nbsp; Tecnologias que uso no trabalho: AngularJS e Ionic
@@ -19,7 +19,7 @@ Sou uma Front-end Developer :computer:
 I am a person who constantly seeks knowledge and I don't like to stay put!
 I'm a Front-end Developer :computer:
 
- :office:  &nbsp; I work at **Qipu - Contabilidade Online**
+ :office:  &nbsp; I work at **Ambev Tech**
  <br/> :purple_heart: &nbsp; Looking for Front-end projects to collaborate with using React and React Native
  <br/> :blush: &nbsp; I can help you with CSS, UX and project management
  <br/> :computer: &nbsp; Techs that I use in my work: AngularJS and Ionic
