@@ -9,7 +9,7 @@ Sou uma Front-end Developer :computer:
  <br/> :blush: &nbsp; Posso te ajudar com CSS, UX e organização de projetos
  <br/> :computer: &nbsp; Tecnologias que uso no trabalho: ReactJS
  <br/> :computer: &nbsp; Tecnologias que uso em projetos pessoais/freelance: React, React Native, Typescript e NodeJS (quando necessário)
- <br/> :book:  &nbsp; Estudando: UX/UI, NodeJS, Metodologias ágeis
+ <br/> :book:  &nbsp; Estudando: C#, .NET framework
  <br/> :video_game:  &nbsp; Jogos que curto: Genshin Impact, Kingdom Hearts, Final Fantasy e Persona
  <br/> :tv:  &nbsp; Outros passatempos: assistir Netflix e Crunchyroll, ler livros sobre a área de empreendedorismo e tecnologia 
  <br/> :email: &nbsp; Entre em contato comigo: anachfigueira@gmail.com
@@ -24,7 +24,7 @@ I'm a Front-end Developer :computer:
  <br/> :blush: &nbsp; I can help you with CSS, UX and project management
  <br/> :computer: &nbsp; Techs that I use in my work: ReactJS
  <br/> :computer: &nbsp; Techs that I use on personal projects/freelance: React, React Native, Typescript and NodeJS (when necessary)
- <br/> :book:  &nbsp; Studying: UX/UI, NodeJS, Agile
+ <br/> :book:  &nbsp; Studying: C#, .NET framework
  <br/> :video_game:  &nbsp; Video games that I like: Genshin Impact, Kingdom Hearts, Final Fantasy and Persona
  <br/> :tv:  &nbsp; Other things that I do on my free time: watch Netflix and Crunchyroll, read books about entrepreneurship and technology 
  <br/> :email: &nbsp; Contact me: anachfigueira@gmail.com
